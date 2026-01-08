@@ -1,4 +1,4 @@
-# 🛒 Customer_Shopping_Behavior_Analysis
+#🛒 Customer_Shopping_Behavior_Analysis
 This project shows the customer behavior analysis made through Python, SQL. 
 
 ### 📄 Project Overview
