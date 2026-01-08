@@ -47,19 +47,3 @@ Based on the data, I propose the following strategic actions:
 2.  **Revamp the Subscription Model:** The loyalty program is currently underperforming. Introduce tiered benefits (e.g., "Free Express Shipping" for subscribers) to raise the average spend of this cohort.
 3.  **Prioritize "Class A" Inventory:** Ensure 100% stock availability for **Jewelry, Blouses, and Sandals**, as these specific SKUs drive the bulk of transaction volume.
 4.  **Upsell Express Shipping:** Prominently feature Express Shipping at checkout, as users selecting this option tend to purchase higher-value baskets.
-
----
-
-### 💻 How to Run This Project
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/yourusername/shopping-behavior-analysis.git](https://github.com/yourusername/shopping-behavior-analysis.git)
-    ```
-2.  **Load Data:**
-    * Run the Python script `data_cleaning.py` to process the raw CSV.
-    * Import the cleaned CSV into your MySQL database.
-3.  **Run SQL Analysis:**
-    * Execute the queries in `analysis_queries.sql` to generate the insights.
-
----
-*Author: [Your Name]*
